@@ -24,4 +24,4 @@ Este repositório contém códigos e projetos relacionados à Formação Python 
 
 <h3> Licença </h3> 
 
-<p> Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes. </p>
+<p> Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE] para obter detalhes. </p>
